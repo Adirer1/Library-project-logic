@@ -1,0 +1,22 @@
+C:\Users\adirb\Visual studio projects\Library project UI\bin\Debug\net7.0-windows\Library project UI.exe
+C:\Users\adirb\Visual studio projects\Library project UI\bin\Debug\net7.0-windows\Library project UI.deps.json
+C:\Users\adirb\Visual studio projects\Library project UI\bin\Debug\net7.0-windows\Library project UI.runtimeconfig.json
+C:\Users\adirb\Visual studio projects\Library project UI\bin\Debug\net7.0-windows\Library project UI.dll
+C:\Users\adirb\Visual studio projects\Library project UI\bin\Debug\net7.0-windows\Library project UI.pdb
+C:\Users\adirb\Visual studio projects\Library project UI\bin\Debug\net7.0-windows\Library project logic.dll
+C:\Users\adirb\Visual studio projects\Library project UI\bin\Debug\net7.0-windows\Library project logic.pdb
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library project UI.csproj.AssemblyReference.cache
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library_project_UI.Properties.Resources.resources
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library project UI.csproj.GenerateResource.cache
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library project UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library project UI.AssemblyInfoInputs.cache
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library project UI.AssemblyInfo.cs
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library project UI.csproj.CoreCompileInputs.cache
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library project UI.csproj.CopyComplete
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library project UI.dll
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\refint\Library project UI.dll
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library project UI.pdb
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library project UI.genruntimeconfig.cache
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\ref\Library project UI.dll
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library_project_UI.AddButton.resources
+C:\Users\adirb\Visual studio projects\Library project UI\obj\Debug\net7.0-windows\Library_project_UI.Main.resources

@@ -1,0 +1,102 @@
+D:\Adir\Visual studio projects\Library Project\Library project UI\bin\Debug\net6.0-windows\Library project UI.exe
+D:\Adir\Visual studio projects\Library Project\Library project UI\bin\Debug\net6.0-windows\Library project UI.deps.json
+D:\Adir\Visual studio projects\Library Project\Library project UI\bin\Debug\net6.0-windows\Library project UI.runtimeconfig.json
+D:\Adir\Visual studio projects\Library Project\Library project UI\bin\Debug\net6.0-windows\Library project UI.dll
+D:\Adir\Visual studio projects\Library Project\Library project UI\bin\Debug\net6.0-windows\Library project UI.pdb
+D:\Adir\Visual studio projects\Library Project\Library project UI\bin\Debug\net6.0-windows\Library project logic.dll
+D:\Adir\Visual studio projects\Library Project\Library project UI\bin\Debug\net6.0-windows\Library project logic.pdb
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.AssemblyReference.cache
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.AddButton.resources
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.Main.resources
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.Properties.Resources.resources
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.GenerateResource.cache
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library project UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library project UI.AssemblyInfoInputs.cache
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library project UI.AssemblyInfo.cs
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.CoreCompileInputs.cache
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.CopyComplete
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library project UI.dll
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\refint\Library project UI.dll
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library project UI.pdb
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library project UI.genruntimeconfig.cache
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\ref\Library project UI.dll
+D:\Adir\Visual studio projects\Library Project\Library project UI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Adir\Visual studio projects\Library Project\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.ViewItem.resources
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\bin\Debug\net6.0-windows\Library project UI.exe
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\bin\Debug\net6.0-windows\Library project UI.deps.json
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\bin\Debug\net6.0-windows\Library project UI.runtimeconfig.json
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\bin\Debug\net6.0-windows\Library project UI.dll
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\bin\Debug\net6.0-windows\Library project UI.pdb
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\bin\Debug\net6.0-windows\Library project logic.dll
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\bin\Debug\net6.0-windows\Library project logic.pdb
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.AssemblyReference.cache
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.AddButton.resources
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.Main.resources
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.Properties.Resources.resources
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.ViewItem.resources
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.GenerateResource.cache
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library project UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library project UI.AssemblyInfoInputs.cache
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library project UI.AssemblyInfo.cs
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.CoreCompileInputs.cache
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.CopyComplete
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library project UI.dll
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\refint\Library project UI.dll
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library project UI.pdb
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library project UI.genruntimeconfig.cache
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\ref\Library project UI.dll
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.SureDelete.resources
+C:\Users\adirb\Visual studio projects\LibraryProject2\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.Login.resources
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project UI.exe
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project UI.deps.json
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project UI.runtimeconfig.json
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project UI.dll
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project UI.pdb
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project logic.dll
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project logic.pdb
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.AssemblyReference.cache
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.AddButton.resources
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.Login.resources
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.Main.resources
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.Properties.Resources.resources
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.SureDelete.resources
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.ViewItem.resources
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.GenerateResource.cache
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.AssemblyInfoInputs.cache
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.AssemblyInfo.cs
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.CoreCompileInputs.cache
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.CopyComplete
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.dll
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\refint\Library project UI.dll
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.pdb
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.genruntimeconfig.cache
+D:\Adir\Visual studio projects\LibraryProject3\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\ref\Library project UI.dll
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project UI.exe
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project UI.deps.json
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project UI.runtimeconfig.json
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project UI.dll
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project UI.pdb
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project logic.dll
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\bin\Debug\net6.0-windows\Library project logic.pdb
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.AssemblyReference.cache
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.AddButton.resources
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.Login.resources
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.Main.resources
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.Properties.Resources.resources
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.SureDelete.resources
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library_project_UI.ViewItem.resources
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.GenerateResource.cache
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.AssemblyInfoInputs.cache
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.AssemblyInfo.cs
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.CoreCompileInputs.cache
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.csproj.CopyComplete
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.dll
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\refint\Library project UI.dll
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.pdb
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\Library project UI.genruntimeconfig.cache
+D:\Adir\Visual studio projects\LibraryProjectFinal\LibraryProject3\Library project UI\obj\Debug\net6.0-windows\ref\Library project UI.dll
